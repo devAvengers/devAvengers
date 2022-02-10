@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "crypto-js": "^3.1.9-1",
-    "node-sass": "^4.7.1",
+    "node-sass": "^7.0.0",
     "sweetalert": "^2.1.0"
   }
 }
