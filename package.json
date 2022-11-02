@@ -19,7 +19,7 @@
     "browserify": "^13.3.0",
     "connect-history-api-fallback": "^1.5.0",
     "firebase": "^5.0.4",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-notify": "^2.2.0",
     "gulp-plumber": "^1.1.0",
